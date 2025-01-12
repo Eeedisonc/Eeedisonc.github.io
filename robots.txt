@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://Eeedisonc.github.io/sitemap.xml
