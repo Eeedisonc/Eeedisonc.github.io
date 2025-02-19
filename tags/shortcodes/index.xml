@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Shortcodes on Edison Chen</title><link>http://edisonc.com/tags/shortcodes/</link><description>Recent content in Shortcodes on Edison Chen</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><copyright>© 2025 Edison Chen</copyright><atom:link href="http://edisonc.com/tags/shortcodes/index.xml" rel="self" type="application/rss+xml"/><item><title>短代码</title><link>http://edisonc.com/docs/shortcodes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://edisonc.com/docs/shortcodes/</guid><description>&lt;p>（这里保持其他短代码说明不变，只需修改 Carousel 部分）&lt;/p>
+&lt;h2 class="relative group">轮播图
+&lt;div id="%E8%BD%AE%E6%92%AD%E5%9B%BE" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#%E8%BD%AE%E6%92%AD%E5%9B%BE" aria-label="锚点">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>&lt;code>carousel&lt;/code> 用于以交互方式展示多张图片。&lt;/p></description></item></channel></rss>
